@@ -1,6 +1,6 @@
 import requests
 
-apiKey = "8021ff66b91d5e667f6767a71a0dadbf"
+apiKey = ""
 
 city = "Dublin"
 url = f"https://samples.openweathermap.org/data/2.5/find?q={city}&units=metric&appid={apiKey}"
